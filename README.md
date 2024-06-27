@@ -9,7 +9,8 @@
 🌱 &nbsp;Actualmente estoy trabajando en proyectos personales de desarrollo de web, enfocándome en aprender dia con dia :).
 
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="300" />
+
 
 
 ### 🛠 &nbsp;Tecnologias
