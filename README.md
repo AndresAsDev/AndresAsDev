@@ -9,7 +9,7 @@
 
 💡 &nbsp;¡Hola! Soy Andrés.\
 🎓 &nbsp;Un apasionado ingeniero de desarrollo de software .\
-🌱 &nbsp;Actualmente estoy trabajando en proyectos personales de desarrollo de web, enfocándome en aprender dia con dia :).
+🌱 &nbsp;Actualmente estoy trabajando en proyectos personales de desarrollo web, enfocándome en aprender dia con dia :).
 
 
 
